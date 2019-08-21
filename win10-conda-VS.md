@@ -67,7 +67,7 @@ and run
 
 ```
 (cantera-dev) > scons build
-(cantera-dev) > scons test # <-- this doesn't work yet
+(cantera-dev) > scons test
 (cantera-dev) > scons install
 ```
 
