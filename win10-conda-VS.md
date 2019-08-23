@@ -56,7 +56,7 @@ Change to a suitable installation folder, and clone the repository (or a fork th
 (cantera-dev) > cd cantera
 ```
 
-Create a cantera configuration file __cantera.conf__ with the following content
+Create a cantera configuration file __cantera.conf__ with the following content (make sure to replace `<user name>` with the appropriate folder name, and adjust other path information as needed):
 
 ```
 prefix = 'C:/Users/<user name>/cantera'
